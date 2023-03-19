@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HelloCommandTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.59 s <<< FAILURE! - in com.example.HelloCommandTest
+testWithCommandLineOption  Time elapsed: 1.575 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
+	at com.example.HelloCommandTest.testWithCommandLineOption(HelloCommandTest.java:25)
+
